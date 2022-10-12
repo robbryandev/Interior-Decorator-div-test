@@ -1,7 +1,21 @@
 .column {
   width: 300px;
   float: left;
-  padding-left: 3.5%;
+  padding-left: 1.75%;
+  padding-right: 1.75%;
+  box-sizing: content-box;
+}
+
+.column-before {
+  background-color: rgba(255, 0, 0, 0.329);
+}
+
+.column-during {
+ background-color: rgba(255, 255, 0, 0.301);
+}
+
+.column-after{
+  background-color: rgba(128, 128, 128, 0.308);
 }
 
 .column h2 {
