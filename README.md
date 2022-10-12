@@ -1,5 +1,5 @@
 # resume-div-span
-testing div and span elements
+Interior Decorator Website
 
 ## Contributers
 * Robert Bryan
@@ -13,7 +13,8 @@ testing div and span elements
 
 ## Description
 
-_Start a new webpage to house your resume. Use <div>s and <span>s to style sections for your education, work experience, skills, etc._
+* Create a webpage for an interior decorator.
+* Use floats to make columns to display information and pictures for "before", "during" and "after" renovations.
 
 ## Known Bugs
 
