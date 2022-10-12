@@ -17,5 +17,15 @@ div.work{
   font-style: bold;
 }
 .column{
-  
+  width: 300px;
+  float: left;
+  padding: 10px;
+}
+.index{
+  display: flex;
+  justify-content: center;
+}
+img{
+  width: 100%;
+  height: auto;
 }
