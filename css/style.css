@@ -1,4 +1,4 @@
-.column{
+.column {
   width: 300px;
   float: left;
   padding-left: 3.5%;
@@ -6,13 +6,18 @@
 
 .column h2 {
   text-align: center;
+  margin-bottom: 10px;
 }
 
-.index{
+.column p {
+  margin-top: none;
+}
+
+.index {
   display: flex;
   justify-content: center;
 }
-img{
+img {
   width: 100%;
   height: auto;
 }
