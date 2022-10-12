@@ -1,26 +1,13 @@
-div.work{
-  text-align: center;
-}
-
-.red {
-  color: red;
-  font-style: italic;
-}
-
-.green {
-  color: green;
-  font-style: bold;
-}
-
-.blue {
-  color: blue;
-  font-style: bold;
-}
 .column{
   width: 300px;
   float: left;
-  padding: 10px;
+  padding-left: 3.5%;
 }
+
+.column h2 {
+  text-align: center;
+}
+
 .index{
   display: flex;
   justify-content: center;
@@ -28,4 +15,12 @@ div.work{
 img{
   width: 100%;
   height: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+hr {
+  opacity: 65%;
 }
