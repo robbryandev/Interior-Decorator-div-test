@@ -3,7 +3,8 @@
   float: left;
   padding-left: 1.75%;
   padding-right: 1.75%;
-  box-sizing: content-box;
+  border: black solid 1px;
+  box-sizing: border-box;
 }
 
 .column-before {
