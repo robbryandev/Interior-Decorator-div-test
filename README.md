@@ -1,5 +1,4 @@
-# resume-div-span
-Interior Decorator Website
+# Interior Decorator Website
 
 ## Contributers
 * Robert Bryan
